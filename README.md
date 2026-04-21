@@ -2,10 +2,7 @@
 
 本项目是一款追求高保真视觉体验与流畅交互的微信选购助手。它不仅是一个前端 Demo，更是我作为 **AI-Native 开发者**，利用 AI 工具链（Codex / Roo Code）将高水准设计稿转化为交互原型的实战案例。
 
-## 🎥 交互演示 (Demo)
-
-> [!TIP]
-> 此处建议上传你的演示视频或 GIF，并在下方替换路径。
+## 🎥 交互演示 (Demo)。
 
 ![小程序交互演示](path/to/your/dem<img width="327" height="720" alt="演示" src="https://github.com/user-attachments/assets/1278f995-d309-4df0-9cfc-4b867c5af9dd" />
 o.gif)
